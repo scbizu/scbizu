@@ -1,10 +1,5 @@
-### Nace's Profile
-
-```
-$ whoami
-> scnace -- a nerd Gopher !
-$ hi
-> bye scnace
-$ bio
-> 🖤以爱之名，再见宋哈娜
-```
+* 妈个鸡啊 
+* 我好菜啊 
+* 我在搞毛啊 
+* 没了没了 
+* 程序猿生涯注定一片黑暗了
